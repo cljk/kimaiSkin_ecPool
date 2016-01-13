@@ -1,0 +1,11 @@
+#selector .preselection {
+	color: #aaa;
+}
+
+#selector .preselection strong {
+	display: none;
+}
+
+#buzzer {
+	display: none;
+}
