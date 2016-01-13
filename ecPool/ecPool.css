@@ -9,3 +9,28 @@
 #buzzer {
 	display: none;
 }
+
+.menu .tab {
+	padding: 6px;
+}
+
+#fliptabs {
+	height: 30px; 
+}
+
+#gui #adminPanel_extension_panel {
+	top: 124px;
+}
+
+#gui #export_panel {
+	padding: 0px 10px 0px 10px;
+}
+
+#gui #export_panel .w {
+	color: #000;
+}
+
+
+.menuBackground {
+	height: 30px;
+}
